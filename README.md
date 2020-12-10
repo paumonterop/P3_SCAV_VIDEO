@@ -37,4 +37,6 @@ Aquest script permet rear containers i saber amb quin standard s'ajusten
 Es pot executar des de terminal de la seguent manera
 EXEMPLE: *python3 testContainer.py 'bbb_1min.mp4' 'bbb_mp3.mp3' 'bbb_subtitles.srt' 'outputFile.mp4'*
 
+**EXERCICI 5**
+I finalment la classe amb els scripts de crear containers automaticmanet i analizar la broadcast standard compatible
 
